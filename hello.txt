@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 TEST
 #this is Nhi's edit
+=======
+#this is Nhi'siedit
+>>>>>>> main
